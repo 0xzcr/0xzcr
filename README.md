@@ -1,6 +1,5 @@
 # Hey there, I'm Umang Sharma
 
-![Profile views](https://komarev.com/ghpvc/?username=0xzcr&style=flat-square&color=8b1e2d)
 
 I’m Umang — a computer science undergrad and product developer focused on AI systems, inference, and developer tools.
 
