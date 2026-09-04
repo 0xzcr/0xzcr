@@ -1,2 +1,2 @@
-# Hey there, I'm Umang Sharma
+# hey, I'm umang sharma
 
